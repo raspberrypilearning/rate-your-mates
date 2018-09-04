@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More animations
+## Her: Mwy o animeiddiadau
 
-Can you make your other images flash on the screen?
+Allwch chi wneud i'ch delweddau eraill fflachio ar y sgrin?
 
 \--- /challenge \---
