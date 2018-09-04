@@ -1,11 +1,11 @@
-## Adding an animation
+## Ychwanegu animeiddiad
 
-Let's display short animations in your program.
+Gadewch i ni arddangos animeiddiadau byr yn eich rhaglen.
 
-+ Here's the code for displaying a question mark for 1 second before clearing the screen:
++ Dyma'r côd ar gyfer dangos marc cwestiwn am 1 eiliad cyn clirio'r sgrin:
 
-![screenshot](images/rate-question-code.png)
+![sgrinlun](images/rate-question-code.png)
 
-+ To make this question mark flash 5 times, you'll need to put this code inside a `repeat` loop and set the number of repeats to '5':
++ I wneud i'r marc cwestiwn hwn fflachio 5 gwaith, bydd angen i chi roi'r cod hwn y tu mewn i ddolen `repeat` (ailadrodd) a gosod nifer yr ailadroddiadau i '5':
 
-![screenshot](images/rate-question-repeat.png)
+![sgrinlun](images/rate-question-repeat.png)
