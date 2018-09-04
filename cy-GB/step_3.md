@@ -1,25 +1,25 @@
-## Displaying a rating
+## Dangos gradd
 
-Show a friendship rating on the screen.
+Dangos gradd cyfeillgarwch ar y sgrin.
 
-+ Click 'Variables' and make a new variable called `rating`.
++ Cliciwch 'Variables' (Newidynnau) a gwnewch newidyn newydd o'r enw `gradd`.
 
-![screenshot](images/rate-rating.png)
+![sgrinlun](images/rate-rating.png)
 
-+ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
++ Llusgwch floc `set` (gosod) i ddwedd eich cod `on button A+B pressed` (pan wasgir botwm A+B) a dewiswch y newidyn `gradd`:
 
-![screenshot](images/rate-rating-set.png)
+![sgrinlun](images/rate-rating-set.png)
 
-+ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
++ Cliciwch 'Math', a defnyddiwch y bloc `pick random` (dewis ar hap) i osod y radd i rif hap rhwng 0 a 100.
 
-![screenshot](images/rate-rating-random.png)
+![sgrinlun](images/rate-rating-random.png)
 
-+ Add code to show the rating on the screen.
++ Ychwanegwch god i ddangos y radd ar y sgrin.
 
-![screenshot](images/rate-rating-show.png)
+![sgrinlun](images/rate-rating-show.png)
 
-+ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
++ Yn olaf, ar ôl oedi, dangoswch y cyfarwyddiadau eto. Cofiwch y gallwch chi ddefnyddio'r clicio ar y dde yna 'Duplicate' (Dyblygu) i gopïo bloc.
 
-![screenshot](images/rate-instruct.png)
+![sgrinlun](images/rate-instruct.png)
 
-+ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
++ Rhowch brawf ar eich cod. Nawr, os ydych chi'n pwyso botymau A a B gyda'i gilydd, dylid arddangos gradd hap.
