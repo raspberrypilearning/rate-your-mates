@@ -1,23 +1,23 @@
-## Pressing buttons together
+## Pwyso botymau gyda'i gilydd
 
-Let's start your program when the A and B buttons are pressed together.
+Gadewch i ni ddechrau eich rhaglen pan fydd y botymau A a B yn cael eu pwyso gyda'i gilydd.
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
++ Ewch i <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Galwch eich prosiect newydd yn 'Graddio Eich Ffrindiau'.
 
-+ When the micro:bit starts, display an image showing that both buttons should be pressed.
++ Pan fydd y micro:bit yn dechrau, dangoswch ddelwedd sy'n dangos y dylid pwyso'r ddau fotwm.
 
-![screenshot](images/rate-start-img.png)
+![sgrinlun](images/rate-start-img.png)
 
-You can use scrolling text instead of an image if you prefer.
+Gallwch ddefnyddio sgrolio testun yn lle delwedd os yw'n well gennych.
 
-+ A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
++ Ni ddylid dangos gradd hyd nes y bydd **y ddau fotwm yn cael eu pwyso**. Ychwanegwch ddigwyddiad `on button A+B pressed` (pan wasgir botwm A + B) newydd i'ch prosiect.
 
-![screenshot](images/rate-ab.png)
+![sgrinlun](images/rate-ab.png)
 
-+ Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
++ Ychwanegwch god i ddangos marc cwestiwn am 1 eiliad, i adeiladu'r cyffro cyn rhoi eu gradd i'r ffrindiau.
 
-![screenshot](images/rate-question.png)
+![sgrinlun](images/rate-question.png)
 
-+ Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
++ Rhowch brawf ar eich cod. Pan fyddwch yn pwyso botymau **A a B gyda'i gilydd**, dylai marc cwestiwn fflachio ar y sgrin.
 
-![screenshot](images/rate-question-test.png)
+![sgrinlun](images/rate-question-test.png)
