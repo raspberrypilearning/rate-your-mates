@@ -1,56 +1,56 @@
-## Introduction
+## Cyflwyniad
 
-You are going to code your micro:bit to tell you how compatible you are with your friends.
+Rydych chi'n mynd i godio eich micro:bit i ddweud wrthych pa mor gydnaws ydych chi â'ch ffrindiau.
 
-**Instructions**: If you're reading this online, press **A+B** on the micro:bit below with a friend to find out your friendship rating.
+**Cyfarwyddiadau**: Os ydych chi'n darllen hwn ar-lein, pwyswch **A + B** ar y micro:bit isod gyda ffrind i ddarganfod gradd eich cyfeillgarwch.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=57756-45098-79806-84952" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Additional information for club leaders
+### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
+Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y fersiwn [hwylus i'w argraffu](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Nodiadau arweinwyr clwb
 
-## Introduction:
+## Cyflwyniad:
 
-In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
+Yn y prosiect hwn, bydd y plant yn dysgu sut i wneud defnydd o newidynnau a rhifau hap trwy wneud rhaglen gydnawsedd. Bydd dau ddefnyddiwr yn pwyso botwm ar y micro:bit, a fydd wedyn yn dweud eu canran cydnawsedd wrthyn nhw.
 
-## Resources
+## Adnoddau
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
+Ar gyfer y prosiect hwn, dylid defnyddio'r golygydd microbit [MakeCode (PXT)](http://jumpto.cc/mb-new).
 
-You can find a completed version of this project at \[makecode.microbit.org/#pub:57756-45098-79806-84952\](https://makecode.microbit.org/#pub:57756-45098-79806-84952, and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+Gallwch weld fersiwn wedi ei gwblhau o’r prosiect hwn ar \[makecode.microbit.org/#pub:57756-45098-79806-84952\](https://makecode.microbit.org/#pub:57756-45098-79806-84952, a gellir lawrlwytho’r ffeil .hex grynöedig trwy glicio ar y ddolen 'Lawrlwytho Deunyddiau Prosiect' ar gyfer y prosiect hwn, sy'n cynnwys:
 
 * microbit-Rate-Your-Mates.hex
 
-## Learning Objectives
+## Amcanion Dysgu
 
-* `>` and `<` relational operators;
-* Repetition (`for` loop).
+* `>` a `<` gweithredwyr perthynol;
+* Ailadrodd (`for` (ar gyfer) dolen).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Mae'r prosiect hwn yn cwmpasu elfennau o ffrydiau dilynol y [Cwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Defnyddio lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Heriau
 
-* "Low rating" - Use of `if` statement and `<` relational operator to show a cross or a sad face if the rating is under 25.
-* "More animations" - Use of a `for` loop to create more animations.
+* 'Gradd isel – Defnyddio datganiad `if` (os) a `<` gweithredwr perthynas i ddangos croes neu wyneb trist os yw'r radd o dan 25.
+* 'Mwy o animeiddiadau' – Defnyddio dolen `ar gyfer` i greu mwy o animeiddiadau.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Deunyddiau prosiect
 
-## Club leader resources
+## Adnoddau ar gyfer arweinwyr clwb
 
-* [online completed project](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
-* [.hex project file to transfer onto your micro:bit](resources/microbit-Rate-Your-Mates.hex)
+* [prosiect wedi'i gwblhau ar-lein](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
+* [ffeil prosiect .hex i'w throsglwyddo i'ch micro:bit](resources/microbit-Rate-Your-Mates.hex)
 
 \--- /collapse \---
