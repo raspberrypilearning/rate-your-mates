@@ -10,7 +10,7 @@ Rydych chi'n mynd i godio eich micro:bit i ddweud wrthych pa mor gydnaws ydych c
 
 ### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
 
-Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y fersiwn [hwylus i'w argraffu](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
+Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y fersiwn [hwylus i'w argraffu](https://projects.raspberrypi.org/cy-GB/projects/rate-your-mates/print).
 
 --- collapse ---
 ---
@@ -24,7 +24,7 @@ Yn y prosiect hwn, bydd y plant yn dysgu sut i wneud defnydd o newidynnau a rhif
 
 Ar gyfer y prosiect hwn, dylid defnyddio'r golygydd microbit [MakeCode (PXT)](http://jumpto.cc/mb-new).
 
-Gallwch weld fersiwn wedi ei gwblhau o’r prosiect hwn ar [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952, a gellir lawrlwytho’r ffeil .hex grynöedig trwy glicio ar y ddolen 'Lawrlwytho Deunyddiau Prosiect' ar gyfer y prosiect hwn, sy'n cynnwys:
+Gallwch weld fersiwn wedi ei gwblhau o’r prosiect hwn ar [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), a gellir lawrlwytho’r ffeil .hex grynöedig trwy glicio ar y ddolen 'Lawrlwytho Deunyddiau Prosiect' ar gyfer y prosiect hwn, sy'n cynnwys:
 
 * microbit-Rate-Your-Mates.hex
 

@@ -12,7 +12,7 @@ Gadewch i ni arddangos calon pan fydd gan ddau ffrind radd uchel.
 
 + Llusgwch eich newidyn `rating` (sgôr) i ochr chwith eich bloc `if` (os), ac ychwanegu rhif `75` i'r ochr dde.
 
-![sgrinlun](<0>Llusgwch eich newidyn <0>rating</0> (sgôr) i ochr chwith eich bloc <0>if</0> (os), ac ychwanegu rhif <0>75</0> i'r ochr dde.)
+![sgrinlun](images/rate-75.png)
 
 Bydd unrhyw god y tu mewn i'r bloc `if` (os) hwn yn rhedeg os yw'r sgôr dros 75.
 
