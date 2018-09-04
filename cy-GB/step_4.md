@@ -1,23 +1,23 @@
-## Best mates
+## Ffrindiau gorau
 
-Let's display a heart when two friends have a high rating.
+Gadewch i ni arddangos calon pan fydd gan ddau ffrind radd uchel.
 
-+ Add an `if` block to your code, just before the instructions are shown.
++ Ychwanegwch floc `if` (os) i'ch cod, cyn i'r cyfarwyddiadau gael eu dangos.
 
-![screenshot](images/rate-if.png)
+![sgrinlun](images/rate-if.png)
 
-+ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
++ Rydych chi'n dymuno arddangos calon os yw'r radd yn uchel (dywedwch dros 75). I wneud hyn, llusgwch floc cymhariaeth o 'Logic' i'ch 'if' (os) a dewiswch '>':
 
-![screenshot](images/rate-compare.png)
+![sgrinlun](images/rate-compare.png)
 
-+ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
++ Llusgwch eich newidyn `rating` (sgôr) i ochr chwith eich bloc `if` (os), ac ychwanegu rhif `75` i'r ochr dde.
 
-![screenshot](images/rate-75.png)
+![sgrinlun](<0>Llusgwch eich newidyn <0>rating</0> (sgôr) i ochr chwith eich bloc <0>if</0> (os), ac ychwanegu rhif <0>75</0> i'r ochr dde.)
 
-Any code inside this `if` block will run if the rating is over 75.
+Bydd unrhyw god y tu mewn i'r bloc `if` (os) hwn yn rhedeg os yw'r sgôr dros 75.
 
-+ Show a heart image on the screen for 1 second if the rating is over 75.
++ Dangoswch ddelwedd calon ar y sgrin am 1 eiliad os yw'r radd dros 75.
 
-![screenshot](images/rate-heart.png)
+![sgrinlun](images/rate-heart.png)
 
-+ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
++ Rhowch brawf ar eich cod. A oes delwedd o galon yn ymddangos os yw'r radd dros 75? Gallai fod rhaid i chi roi ychydig gynigion arni i'w brofi!
