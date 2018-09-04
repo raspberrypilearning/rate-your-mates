@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Low rating
+## Her: Gradd isel
 
-Can you display a cross or a sad face for a rating under 25?
+Allwch chi ddangos croes neu wyneb trist ar gyfer gradd o dan 25?
 
 \--- /challenge \---
