@@ -1,6 +1,6 @@
 ## Introduction
 
-Tu vas programmer ta micro:bit pour quelle indique si tu es compatible avec tes amis.
+Tu vas programmer ton micro:bit pour quelle indique si tu es compatible avec tes amis.
 
 __Instructions__&nbsp;: Si tu lis ceci en ligne, appuie sur __A+B__ de la micro:bit ci-dessous avec un ami pour découvrir la force de ton amitié.
 
