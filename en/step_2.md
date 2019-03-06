@@ -4,7 +4,7 @@ Let's start your program when the A and B buttons are pressed together.
 
 
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
 
 + When the micro:bit starts, display an image showing that both buttons should be pressed.
 
