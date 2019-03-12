@@ -2,7 +2,7 @@
 
 आइए आपका प्रोग्राम शुरू करते हैं जब A और B बटन एक साथ दबाए जाते हैं।
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. अपने नए प्रोजेक्ट का नाम 'अपने साथी को रेट करें' रखें।
++ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <0>rpf.io/microbit-new</0> पर जाएंँ।. अपने नए प्रोजेक्ट का नाम 'अपने साथी को रेट करें' रखें।
 
 + जब micro:bit शुरू होता है, तो यह दर्शाने के लिए एक छवि दिखाएँ कि दोनों बटन दबाए जाने चाहिए।
 
