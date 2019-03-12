@@ -25,7 +25,7 @@ title: क्लब लीडर की टिप्पणियाँ
 
 इस प्रोजेक्ट के लिए, [MakeCode (PXT)](http://jumpto.cc/mb-new) माइक्रोबिट संपादक का उपयोग किया जाना चाहिए।
 
-आप इस प्रोजेक्ट का पूर्ण किया गया संस्करण \[makecode.microbit.org/#pub:57756-45098-79806-84952\](https://makecode.microbit.org/#pub:57756-45098-79806-84952 पर प्राप्त कर सकते हैं, और संकलित .hex फाइल 'Download Project Materials' लिंक पर क्लिक करके डाउनलोड की जा सकती है, जिसमें शामिल है:
+आप इस प्रोजेक्ट का पूर्ण किया गया संस्करण \[makecode.microbit.org/#pub:57756-45098-79806-84952\](https://makecode.microbit.org/#pub:57756-45098-79806-84952) पर प्राप्त कर सकते हैं, और संकलित .hex फाइल 'Download Project Materials' लिंक पर क्लिक करके डाउनलोड की जा सकती है, जिसमें शामिल है:
 
 * microbit-Rate-Your-Mates.hex
 
