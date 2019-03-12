@@ -2,7 +2,7 @@
 
 Gadewch i ni ddechrau eich rhaglen pan fydd y botymau A a B yn cael eu pwyso gyda'i gilydd.
 
-+ Ewch i <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Galwch eich prosiect newydd yn 'Graddio Eich Ffrindiau'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Galwch eich prosiect newydd yn 'Graddio Eich Ffrindiau'.
 
 + Pan fydd y micro:bit yn dechrau, dangoswch ddelwedd sy'n dangos y dylid pwyso'r ddau fotwm.
 
