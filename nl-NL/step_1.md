@@ -24,7 +24,7 @@ In dit project zullen kinderen leren hoe ze gebruik kunnen maken van variabelen 
 
 Voor dit project moet de [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit-editor worden gebruikt.
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+Je kunt een voltooide versie van dit project vinden op [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), en het gecompileerde .hex-bestand kan worden gedownload door te klikken op de link 'Projectmaterialen downloaden' voor dit project, dat bevat:
 
 * microbit-Rate-Your-Mates.hex
 
