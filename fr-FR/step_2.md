@@ -1,26 +1,23 @@
-## Appuyer sur les deux boutons ensemble
+## Pressing buttons together
 
-Commençons le programme quand les boutons A et B sont pressés ensemble.
+Let's start your program when the A and B buttons are pressed together.
 
-+ Va sur <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> pour démarrer un nouveau projet dans l'éditeur PXT.
-  Appelle ton nouveau projet 'Note tes potes'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
 
-+ Quand la micro:bit démarre, affiche une image pour montrer que les deux boutons doivent être pressés simultanément.
++ When the micro:bit starts, display an image showing that both buttons should be pressed.
 
-![screenshot](images/rate-start-img.png)
+![capture d'écran](images/rate-start-img.png)
 
-Tu peux utiliser du texte qui défile ou bien une image si tu préfères.
+You can use scrolling text instead of an image if you prefer.
 
-+ Une note ne doit pas être affichée tant que __les deux boutons sont pressés__.
-  Ajouter un événement `lorsque le bouton A+B est pressé` dans ton projet.
++ A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
 
-![screenshot](images/rate-ab.png)
+![capture d'écran](images/rate-ab.png)
 
-+ Ajoute le code pour afficher un point d'interrogation pendant 1 seconde, pour faire durer le suspense avant de révéler aux amis la force de leur amitié.
++ Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
 
-![screenshot](images/rate-question.png)
+![capture d'écran](images/rate-question.png)
 
-+ Teste ton code.
-  Quand tu appuies sur les boutons __A et B ensemble__, un point d'interrogation devrait clignoter sur l'écran.
++ Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
 
-![screenshot](images/rate-question-test.png)
+![capture d'écran](images/rate-question-test.png)
