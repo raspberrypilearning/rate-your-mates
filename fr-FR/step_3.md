@@ -1,26 +1,25 @@
-## Afficher la note
+## Displaying a rating
 
-Affiche la force de l'amitié sur l'écran.
+Show a friendship rating on the screen.
 
-+ Clique sur 'Variables' et ajoute une variable appelée `amitié`.
++ Click 'Variables' and make a new variable called `rating`.
 
-![screenshot](images/rate-rating.png)
+![capture d'écran](images/rate-rating.png)
 
-+ Ajoute un bloc `définir ... à` à la fin du bloc `lorsque le bouton A+B est pressé` est sélectionne la variable `amitié`&nbsp;:
++ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
 
 ![screenshot](images/rate-rating-set.png)
 
-+ Clique sur 'Math', et utilise un bloc `choisir au hasard entre 0 et ...` pour définir l'amitié, en prenant un nombre aléatoire entre 0 et 100.
++ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
 
-![screenshot](images/rate-rating-random.png)
+![capture d'écran](images/rate-rating-random.png)
 
-+ Ajoute le code pour afficher l'`amitié` sur l'écran.
++ Add code to show the rating on the screen.
 
-![screenshot](images/rate-rating-show.png)
+![capture d'écran](images/rate-rating-show.png)
 
-+ Enfin, après un délai, affiche les instructions à nouveau.
-  Souviens-toi que tu peux utiliser le clic-droit puis 'Dupliquer' pour copier un bloc.
++ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
 
-![screenshot](images/rate-instruct.png)
+![capture d'écran](images/rate-instruct.png)
 
-+ Teste ton code. Maintenant, si tu presses les boutons A et B ensemble, un nombre au hasard devrait s'afficher.
++ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
