@@ -1,26 +1,23 @@
-## Les meilleurs potes
+## Best mates
 
-Affichons un coeur quand deux amis ont une grande amitié.
+Let's display a heart when two friends have a high rating.
 
-+ Ajoute un bloc de code `si` dans code, juste avant l'affichage des instructions.
++ Add an `if` block to your code, just before the instructions are shown.
 
-![screenshot](images/rate-if.png)
+![capture d'écran](images/rate-if.png)
 
-+ Tu veux afficher un coeur si l'`amitié` est est grande (disons supérieure à 75).
-  Pour cela, dans 'Logique' prend un bloc de comparaison et met le dans ton `si`, puis sélectionne '>'&nbsp;:
++ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
 
 ![screenshot](images/rate-compare.png)
 
-+ Place la variable `amitié` dans le partie gauche de ton bloc `si`, et mets le nombre `75` dans la partie droite.
++ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
 
-![screenshot](images/rate-75.png)
+![capture d'écran](images/rate-75.png)
 
-Le code à l'intérieur du bloc `si` ne s'exécutera que si l'`amitié` est supérieure à 75.
+Any code inside this `if` block will run if the rating is over 75.
 
-+ Affiche une image avec coeur sur l'écran pendant 1 seconde si l'`amitié` est supérieure à 75.
++ Show a heart image on the screen for 1 second if the rating is over 75.
 
-![screenshot](images/rate-heart.png)
+![capture d'écran](images/rate-heart.png)
 
-+ Teste ton code.
-  Est-ce qu'une image de coeur apparaît si l'`amitié` est supérieure à 75&nbsp;?
-  Tu peux essayer plusieurs fois pour tester&nbsp;!
++ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
