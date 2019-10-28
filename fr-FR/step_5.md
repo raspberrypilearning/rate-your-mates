@@ -1,6 +1,7 @@
---- challenge ---
-## Défi&nbsp;: Mauvaise note
+\--- challange \---
 
-Sauras-tu afficher une croix ou un visage triste pour une valeur de `amitié` inférieure à 25&nbsp;?
+## Challenge: Low rating
 
---- /challenge ---
+Can you display a cross or a sad face for a rating under 25?
+
+\--- /challenge \---
