@@ -1,12 +1,11 @@
-## Ajouter des animations
+## Adding an animation
 
-Ajoute de petites animations dans ton programme.
+Let's display short animations in your program.
 
-+ Voici le code pour afficher un point d'interrogation pendant 1 seconde avant d'effacer l'écran&nbsp;:
++ Here's the code for displaying a question mark for 1 second before clearing the screen:
 
-![screenshot](images/rate-question-code.png)
+![capture d'écran](images/rate-question-code.png)
 
-+ Pour faire clignoter ce point d'interrogation 5 fois, tu devras mettre ce code à l'intérieur d'une boucle `répéter` et régler le nombre de répétition à 5.
++ To make this question mark flash 5 times, you'll need to put this code inside a `repeat` loop and set the number of repeats to '5':
 
 ![screenshot](images/rate-question-repeat.png)
-
