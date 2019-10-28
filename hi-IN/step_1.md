@@ -14,7 +14,7 @@
 
 ## \--- collapse \---
 
-## title: क्लब लीडर की टिप्पणियाँ
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -24,7 +24,7 @@
 
 इस प्रोजेक्ट के लिए, [MakeCode (PXT)](http://jumpto.cc/mb-new) माइक्रोबिट संपादक का उपयोग किया जाना चाहिए।
 
-आप इस प्रोजेक्ट का पूर्ण किया गया संस्करण \[makecode.microbit.org/#pub:57756-45098-79806-84952\](https://makecode.microbit.org/#pub:57756-45098-79806-84952 पर प्राप्त कर सकते हैं, और संकलित .hex फाइल 'Download Project Materials' लिंक पर क्लिक करके डाउनलोड की जा सकती है, जिसमें शामिल है:
+You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * microbit-Rate-Your-Mates.hex
 
@@ -35,7 +35,7 @@
 
 यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों के पहलुओं को पूरा करता है:
 
-* [सरल प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## चुनौतियाँ
 
@@ -48,7 +48,7 @@
 
 ## title: प्रोजेक्ट सामग्री
 
-## क्लब लीडर संसाधन
+## क्लब नेता संसाधन
 
 * [ऑनलाइन पूर्ण प्रोजेक्ट](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
 * [आपके micro:bit पर स्थानांतरित करने के लिए.hex प्रोजेक्ट फ़ाइल](resources/microbit-Rate-Your-Mates.hex)
