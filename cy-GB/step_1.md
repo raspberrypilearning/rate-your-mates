@@ -24,7 +24,7 @@ Yn y prosiect hwn, bydd y plant yn dysgu sut i wneud defnydd o newidynnau a rhif
 
 Ar gyfer y prosiect hwn, dylid defnyddio'r golygydd microbit [MakeCode (PXT)](http://jumpto.cc/mb-new).
 
-Gallwch weld fersiwn wedi ei gwblhau o’r prosiect hwn ar \[makecode.microbit.org/#pub:57756-45098-79806-84952\](https://makecode.microbit.org/#pub:57756-45098-79806-84952, a gellir lawrlwytho’r ffeil .hex grynöedig trwy glicio ar y ddolen 'Lawrlwytho Deunyddiau Prosiect' ar gyfer y prosiect hwn, sy'n cynnwys:
+You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * microbit-Rate-Your-Mates.hex
 
