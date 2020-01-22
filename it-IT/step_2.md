@@ -12,12 +12,12 @@ You can use scrolling text instead of an image if you prefer.
 
 + A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
 
-![schermata](images/rate-ab.png)
+![screenshot](images/rate-ab.png)
 
 + Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
 
-![schermata](images/rate-question.png)
+![screenshot](images/rate-question.png)
 
 + Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
 
-![schermata](images/rate-question-test.png)
+![screenshot](images/rate-question-test.png)
