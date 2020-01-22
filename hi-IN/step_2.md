@@ -1,23 +1,23 @@
-## बटन एक साथ दबाना
+## Pressing buttons together
 
-आइए आपका प्रोग्राम शुरू करते हैं जब A और B बटन एक साथ दबाए जाते हैं।
+Let's start your program when the A and B buttons are pressed together.
 
-+ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> पर जाएंँ। अपने नए प्रोजेक्ट का नाम 'अपने साथी को रेट करें' रखें।
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
 
-+ जब micro:bit शुरू होता है, तो यह दर्शाने के लिए एक छवि दिखाएँ कि दोनों बटन दबाए जाने चाहिए।
++ When the micro:bit starts, display an image showing that both buttons should be pressed.
 
 ![screenshot](images/rate-start-img.png)
 
-यदि आप चाहें तो आप छवि के बजाय स्क्रॉलिंग टेक्स्ट का उपयोग कर सकते हैं।
+You can use scrolling text instead of an image if you prefer.
 
-+ कोई रेटिंग तभी दिखाई जानी चाहिए जब **दोनों बटन दबाए जाएँ** उसके बिना नहीं। अपने प्रोजेक्ट में एक नया इवेंट `on button A+B pressed` (बटन A+B दबाए जाने पर) जोड़ें।
++ A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
 
-![स्क्रीनशॉट](images/rate-ab.png)
+![screenshot](images/rate-ab.png)
 
-+ दोस्तों को अपनी रेटिंग देने से पहले रहस्य बनाए रखने के लिए 1 सेकंड के लिए एक प्रश्न चिह्न दिखाने के लिए कोड जोड़ें।
++ Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
 
-![स्क्रीनशॉट](images/rate-question.png)
+![screenshot](images/rate-question.png)
 
-+ अपने कोड का परीक्षण करें। जब आप बटन **A और B एक साथ** दबाते हैं, तो स्क्रीन पर एक प्रश्न चिह्न फ्लैश होना चाहिए।
++ Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
 
-![स्क्रीनशॉट](images/rate-question-test.png)
+![screenshot](images/rate-question-test.png)
