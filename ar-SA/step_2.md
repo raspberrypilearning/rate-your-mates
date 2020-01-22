@@ -6,18 +6,18 @@ Let's start your program when the A and B buttons are pressed together.
 
 + When the micro:bit starts, display an image showing that both buttons should be pressed.
 
-![لقطة شاشة](images/rate-start-img.png)
+![screenshot](images/rate-start-img.png)
 
 You can use scrolling text instead of an image if you prefer.
 
 + A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
 
-![لقطة الشاشة](images/rate-ab.png)
+![screenshot](images/rate-ab.png)
 
 + Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
 
-![لقطة الشاشة](images/rate-question.png)
+![screenshot](images/rate-question.png)
 
 + Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
 
-![لقطة الشاشة](images/rate-question-test.png)
+![screenshot](images/rate-question-test.png)
