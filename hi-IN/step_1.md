@@ -1,56 +1,56 @@
-## परिचय
+## Introduction
 
-आप अपने micro:bit को कोड करने जा रहे हैं ताकि आपको यह पता चल सके कि आप अपने दोस्तों के साथ कितने संगत हैं।
+You are going to code your micro:bit to tell you how compatible you are with your friends.
 
-**निर्देश**: यदि आप इसे ऑनलाइन पढ़ रहे हैं, तो अपनी दोस्ती की रेटिंग खोजने के लिए किसी दोस्त के साथ नीचे micro:bit पर **A+B** दबाएँ।
+**Instructions**: If you're reading this online, press **A+B** on the micro:bit below with a friend to find out your friendship rating.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iLDhcVa0K2Fd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### Additional information for club leaders
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/rate-your-mates/print) का उपयोग करें।
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
 ## \--- collapse \---
 
-## title: क्लब नेता नोट्स
+## title: Club leader notes
 
-## परिचय:
+## Introduction:
 
-इस प्रोजेक्ट में, बच्चे यह सीखेंगे कि अनुकूलता कार्यक्रम बनाकर वेरिएबल और यादृच्छिक संख्याओं का उपयोग किस तरह किया जाए। दोनों उपयोगकर्ता प्रत्येक micro:Bit (माइक्रोबिट) पर एक बटन दबाएँगे, जो उन्हें उनके अनुकूलता का प्रतिशत बताएगा।
+In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
 
-## संसाधन
+## Resources
 
-इस प्रोजेक्ट के लिए, [MakeCode (PXT)](http://jumpto.cc/mb-new) माइक्रोबिट संपादक का उपयोग किया जाना चाहिए।
+For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
 
 You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * microbit-Rate-Your-Mates.hex
 
-## सीखने के उद्देश्य
+## Learning Objectives
 
-* `>` और `<` संबंधपरक परिचालक;
-* पुनरावृत्ति (`for` (के लिए) लूप)।
+* `>` and `<` relational operators;
+* Repetition (`for` loop).
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों के पहलुओं को पूरा करता है:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## चुनौतियाँ
+## Challenges
 
-* "कम रेटिंग" - यदि रेटिंग 25 से कम है तो क्रॉस या उदास चेहरा दिखाने के लिए `if` (यदि) कथन और `<` संबंधपरक ऑपरेटर का उपयोग करना।
-* "अधिक एनिमेशन" - अधिक एनिमेशन बनाने के लिए `for` (के लिए) लूप का उपयोग करना।
+* "Low rating" - Use of `if` statement and `<` relational operator to show a cross or a sad face if the rating is under 25.
+* "More animations" - Use of a `for` loop to create more animations.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: Project materials
 
-## क्लब नेता संसाधन
+## Club leader resources
 
-* [ऑनलाइन पूर्ण प्रोजेक्ट](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
-* [आपके micro:bit पर स्थानांतरित करने के लिए.hex प्रोजेक्ट फ़ाइल](resources/microbit-Rate-Your-Mates.hex)
+* [online completed project](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Rate-Your-Mates.hex)
 
 \--- /collapse \---
