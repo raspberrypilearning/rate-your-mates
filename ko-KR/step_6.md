@@ -8,4 +8,4 @@ Let's display short animations in your program.
 
 + To make this question mark flash 5 times, you'll need to put this code inside a `repeat` loop and set the number of repeats to '5':
 
-![스크린샷](images/rate-question-repeat.png)
+![screenshot](images/rate-question-repeat.png)
