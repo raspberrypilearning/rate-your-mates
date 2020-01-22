@@ -20,4 +20,4 @@ You can use scrolling text instead of an image if you prefer.
 
 + Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
 
-![στιγμιότυπο οθόνης](images/rate-question-test.png)
+![screenshot](images/rate-question-test.png)
