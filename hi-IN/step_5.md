@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## चुनौती: कम रेटिंग
+## Challenge: Low rating
 
-क्या आप 25 से कम रेटिंग के लिए एक क्रॉस या उदास चेहरा प्रदर्शित कर सकते हैं?
+Can you display a cross or a sad face for a rating under 25?
 
 \--- /challenge \---
