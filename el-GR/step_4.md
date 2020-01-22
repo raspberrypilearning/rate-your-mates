@@ -18,6 +18,6 @@ Any code inside this `if` block will run if the rating is over 75.
 
 + Show a heart image on the screen for 1 second if the rating is over 75.
 
-![στιγμιότυπο οθόνης](images/rate-heart.png)
+![screenshot](images/rate-heart.png)
 
-+ Δοκίμασε τον κώδικά σου. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
++ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
