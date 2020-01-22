@@ -1,11 +1,11 @@
-## एनिमेशन जोड़ना
+## Adding an animation
 
-आइए हम आपके प्रोग्राम में छोटे एनिमेशन प्रदर्शित करें।
+Let's display short animations in your program.
 
-+ स्क्रीन साफ़ करने से पहले 1 सेकंड के लिए प्रश्न चिह्न प्रदर्शित करने के लिए कोड यहाँ दिया गया है:
++ Here's the code for displaying a question mark for 1 second before clearing the screen:
 
 ![screenshot](images/rate-question-code.png)
 
-+ इस प्रश्न चिह्न को 5 बार फ्लैश करने के लिए, आपको इस कोड को `repeat` (दोहराएँ) लूप के अंदर रखना होगा और दोहराए जाने की संख्या को '5' पर सेट करना होगा:
++ To make this question mark flash 5 times, you'll need to put this code inside a `repeat` loop and set the number of repeats to '5':
 
-![स्क्रीनशॉट](images/rate-question-repeat.png)
+![screenshot](images/rate-question-repeat.png)
