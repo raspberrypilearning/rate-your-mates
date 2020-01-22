@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 You are going to code your micro:bit to tell you how compatible you are with your friends.
 
@@ -16,11 +16,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
 
-## Hjälpmedel
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
 
