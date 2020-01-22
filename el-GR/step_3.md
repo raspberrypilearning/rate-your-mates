@@ -22,4 +22,4 @@ Show a friendship rating on the screen.
 
 ![screenshot](images/rate-instruct.png)
 
-+ Δοκίμασε τον κώδικά σου. Now, if you press buttons A and B together, a random rating should be displayed.
++ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
