@@ -6,7 +6,7 @@ Let's start your program when the A and B buttons are pressed together.
 
 + When the micro:bit starts, display an image showing that both buttons should be pressed.
 
-![Screenshot](images/rate-start-img.png)
+![screenshot](images/rate-start-img.png)
 
 You can use scrolling text instead of an image if you prefer.
 
@@ -16,8 +16,8 @@ You can use scrolling text instead of an image if you prefer.
 
 + Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
 
-![Screenshot](images/rate-question.png)
+![screenshot](images/rate-question.png)
 
 + Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
 
-![Screenshot](images/rate-question-test.png)
+![screenshot](images/rate-question-test.png)
