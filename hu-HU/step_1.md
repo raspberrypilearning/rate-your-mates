@@ -1,4 +1,4 @@
-## Bevezetés
+## Introduction
 
 You are going to code your micro:bit to tell you how compatible you are with your friends.
 
@@ -8,7 +8,7 @@ You are going to code your micro:bit to tell you how compatible you are with you
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iLDhcVa0K2Fd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### További információk klubvezetőknek
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
@@ -16,11 +16,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Bevezetés:
+## Introduction:
 
 In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
 
-## Segédanyagok
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
 
