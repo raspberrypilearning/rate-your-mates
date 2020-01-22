@@ -1,4 +1,4 @@
-## 들어가며
+## Introduction
 
 You are going to code your micro:bit to tell you how compatible you are with your friends.
 
@@ -8,19 +8,19 @@ You are going to code your micro:bit to tell you how compatible you are with you
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iLDhcVa0K2Fd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### 교육자들을 위한 추가 정보
+### Additional information for club leaders
 
-이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/rate-your-mates/print)를 사용하십시오.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
 ## \--- collapse \---
 
-## 제목: 교육자 노트
+## title: Club leader notes
 
-## 소개
+## Introduction:
 
 In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
 
-## 자료
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
 
@@ -28,16 +28,16 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * microbit-Rate-Your-Mates.hex
 
-## 학습 목표
+## Learning Objectives
 
 * `>` and `<` relational operators;
 * Repetition (`for` loop).
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 다음 과정에 대한 내용을 다룹니다:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [기본 프로그래밍 문법으로 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## 도전과제
+## Challenges
 
 * "Low rating" - Use of `if` statement and `<` relational operator to show a cross or a sad face if the rating is under 25.
 * "More animations" - Use of a `for` loop to create more animations.
@@ -46,11 +46,11 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 ## \--- collapse \---
 
-## 제목: 프로젝트 자료
+## title: Project materials
 
-## 교육자를 위한 자료
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
 * [.hex project file to transfer onto your micro:bit](resources/microbit-Rate-Your-Mates.hex)
 
--- /collapse \---
+\--- /collapse \---
