@@ -1,25 +1,25 @@
-## रेटिंग प्रदर्शित करना
+## Displaying a rating
 
-स्क्रीन पर दोस्ती की रेटिंग दिखाएँ।
+Show a friendship rating on the screen.
 
-+ 'वेरिएबल्स' पर क्लिक करें और `रेटिंग` नाम का एक नया वेरिएबल बनाएँ।
++ Click 'Variables' and make a new variable called `rating`.
 
 ![screenshot](images/rate-rating.png)
 
-+ एक `set` (सेट करें) ब्लॉक को अपने `on button A+B pressed` (बटन A+B दबाए जाने पर) कोड के अंत तक ड्रैग करें और `रेटिंग` वेरिएबल का चयन करें:
++ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
 
-![स्क्रीनशॉट](images/rate-rating-set.png)
+![screenshot](images/rate-rating-set.png)
 
-+ 'Math' (मैथ) पर क्लिक करें, और रेटिंग को 0 और 100 के बीच की किसी यादृच्छिक संख्या पर सेट करने के लिए `pick random` (यादृच्छिक चुनें) ब्लॉक का उपयोग करें।
++ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
 
-![स्क्रीनशॉट](images/rate-rating-random.png)
+![screenshot](images/rate-rating-random.png)
 
-+ स्क्रीन पर रेटिंग दिखाने के लिए कोड जोड़ें।
++ Add code to show the rating on the screen.
 
-![स्क्रीनशॉट](images/rate-rating-show.png)
+![screenshot](images/rate-rating-show.png)
 
-+ अंत में, कुछ विलंब के बाद, निर्देशों को फिर से प्रदर्शित करें। याद रखें कि आप किसी ब्लॉक को कॉपी करने के लिए राइट-क्लिक करके 'Duplicate' (डुप्लीकेट) का उपयोग कर सकते हैं।
++ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
 
-![स्क्रीनशॉट](images/rate-instruct.png)
+![screenshot](images/rate-instruct.png)
 
-+ अपने कोड का परीक्षण करें। अब, यदि आप बटन A और B को एक साथ दबाते हैं, तो एक यादृच्छिक रेटिंग प्रदर्शित होनी चाहिए।
++ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
