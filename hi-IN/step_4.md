@@ -1,23 +1,23 @@
-## सर्वश्रेष्ठ साथी
+## Best mates
 
-आइए जब दो दोस्तों की उच्च रेटिंग हो तो एक दिल प्रदर्शित करें।
+Let's display a heart when two friends have a high rating.
 
-+ निर्देशों को दिखाए जाने से ठीक पहले, अपने कोड पर एक `if` (यदि) ब्लॉक जोड़ें।
++ Add an `if` block to your code, just before the instructions are shown.
 
 ![screenshot](images/rate-if.png)
 
-+ यदि रेटिंग उच्च है (मानो 75 से अधिक है) तो आप दिल प्रदर्शित करना चाहते हैं। ऐसा करने के लिए, 'Logic' (तर्क) से तुलनात्मक ब्लॉक को अपने 'if' (यदि) पर खींचें और '>' चुनें:
++ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
 
-![स्क्रीनशॉट](images/rate-compare.png)
+![screenshot](images/rate-compare.png)
 
-+ अपने `रेटिंग` वेरिएबल को अपने `if` (यदि) ब्लॉक के बाईं तरफ खींचें, और दाईं तरफ संख्या `75` जोड़ें।
++ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
 
-![स्क्रीनशॉट](images/rate-75.png)
+![screenshot](images/rate-75.png)
 
-यदि रेटिंग 75 से अधिक होगी तो इस `if` (यदि) ब्लॉक के अंदर जो भी कोड होगा वह चलेगा।
+Any code inside this `if` block will run if the rating is over 75.
 
-+ यदि रेटिंग 75 से अधिक हो तो स्क्रीन पर 1 सेकंड के लिए दिल की छवि दिखाएँ।
++ Show a heart image on the screen for 1 second if the rating is over 75.
 
-![स्क्रीनशॉट](images/rate-heart.png)
+![screenshot](images/rate-heart.png)
 
-+ अपने कोड का परीक्षण करें। यदि रेटिंग 75 से अधिक है तो क्या दिल की कोई छवि दिखती है? आपको इसका परीक्षण करने के लिए कुछ बार कोशिश करनी पड़ सकती है!
++ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
