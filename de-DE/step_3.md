@@ -1,25 +1,25 @@
-## Displaying a rating
+## Eine Bewertung anzeigen
 
-Show a friendship rating on the screen.
+Zeige eine Freundschaftsbewertung auf dem Bildschirm an.
 
-+ Click 'Variables' and make a new variable called `rating`.
++ Klicke auf 'Variablen' und erstelle eine neue Variable mit dem Namen `Bewertung`.
 
-![screenshot](images/rate-rating.png)
+![Screenshot](images/rate-rating.png)
 
-+ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
++ Ziehe einen `Setze`-Block an das Ende deines `auf Taste A+B drücken`-Code und wähle die Variable `Bewertung`:
 
-![screenshot](images/rate-rating-set.png)
+![Screenshot](images/rate-rating-set.png)
 
-+ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
++ Klicke auf 'Mathematik' und verwende den `wähle ein zufällige Zahl`-Block, um die Bewertung auf eine Zufallszahl zwischen 0 und 100 festzulegen.
 
-![screenshot](images/rate-rating-random.png)
+![Screenshot](images/rate-rating-random.png)
 
-+ Add code to show the rating on the screen.
++ Füge Code hinzu, um die Bewertung auf dem Bildschirm anzuzeigen.
 
-![screenshot](images/rate-rating-show.png)
+![Screenshot](images/rate-rating-show.png)
 
-+ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
++ Zeige nach einer Verzögerung die Anweisungen erneut an. Denke daran, dass du mit der rechten Maustaste und dann auf 'Duplizieren' einen Block kopieren kannst.
 
-![screenshot](images/rate-instruct.png)
+![Screenshot](images/rate-instruct.png)
 
-+ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
++ Teste deinen Code. Wenn du nun die Tasten A und B gleichzeitig drückst, sollte eine zufällige Bewertung angezeigt werden.
