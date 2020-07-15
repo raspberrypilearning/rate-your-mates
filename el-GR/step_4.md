@@ -1,23 +1,23 @@
-## Best mates
+## Οι καλύτεροι φίλοι
 
-Let's display a heart when two friends have a high rating.
+Ας εμφανίσουμε μια καρδιά όταν δύο φίλοι έχουν υψηλή βαθμολογία.
 
-+ Add an `if` block to your code, just before the instructions are shown.
++ Πρόσθεσε στον κώδικά σου ένα μπλοκ `if`, λίγο πριν την εμφάνιση των οδηγιών.
 
-![screenshot](images/rate-if.png)
+![στιγμιότυπο οθόνης](images/rate-if.png)
 
-+ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
++ Θέλεις να εμφανίσεις μια καρδιά εάν η βαθμολογία είναι υψηλή (ας πούμε πάνω από 75). Για να το κάνεις αυτό, σύρε ένα μπλοκ σύγκρισης από το 'Λογική' στο 'if' και επίλεξε '>':
 
-![screenshot](images/rate-compare.png)
+![στιγμιότυπο οθόνης](images/rate-compare.png)
 
-+ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
++ Σύρε τη μεταβλητή με τη `βαθμολογία` σου στην αριστερή πλευρά από το μπλοκ `if` και πρόσθεσε τον αριθμό `75` στη δεξιά πλευρά.
 
-![screenshot](images/rate-75.png)
+![στιγμιότυπο οθόνης](images/rate-75.png)
 
-Any code inside this `if` block will run if the rating is over 75.
+Οποιοσδήποτε κώδικας βρίσκεται μέσα σε αυτό το μπλοκ `if` θα εκτελεστεί αν η βαθμολογία είναι πάνω από 75.
 
-+ Show a heart image on the screen for 1 second if the rating is over 75.
++ Εμφάνισε μια εικόνα καρδιάς στην οθόνη για 1 δευτερόλεπτο αν η βαθμολογία είναι πάνω από 75.
 
-![screenshot](images/rate-heart.png)
+![στιγμιότυπο οθόνης](images/rate-heart.png)
 
-+ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
++ Δοκίμασε τον κώδικά σου. Εμφανίζεται η εικόνα μιας καρδιάς αν η βαθμολογία είναι πάνω από 75; Ίσως χρειαστεί να δοκιμάσεις μερικές φορές για να το πετύχεις!
