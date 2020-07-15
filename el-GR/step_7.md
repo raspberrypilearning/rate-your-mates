@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More animations
+## Πρόκληση: Περισσότερες κινούμενες εικόνες
 
-Can you make your other images flash on the screen?
+Μπορείς να κάνεις τις άλλες σου εικόνες να αναβοσβήσουν στην οθόνη;
 
 \--- /challenge \---
