@@ -1,6 +1,6 @@
 ## Beste vrienden
 
-Laten we een hart tonen wanneer twee vrienden een hoge beoordeling hebben.
+We gaan een hart tonen wanneer twee vrienden een hoge beoordeling hebben.
 
 + Voeg een `als` blok toe aan je code, vlak voor de instructies worden getoond.
 
