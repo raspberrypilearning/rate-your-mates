@@ -1,23 +1,23 @@
-## Pressing buttons together
+## Tasten gleichzeitig drücken
 
-Let's start your program when the A and B buttons are pressed together.
+Lass dein Programm starten, wenn die Tasten A und B gleichzeitig gedrückt werden.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
++ Rufe <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> auf, um ein neues Projekt im MakeCode (PXT)-Editor zu starten. Nenne dein neues Projekt "Bewerte deine Freunde".
 
-+ When the micro:bit starts, display an image showing that both buttons should be pressed.
++ Wenn das micro:bit startet, zeige ein Bild an, das zeigt, dass beide Tasten gedrückt werden sollten.
 
-![screenshot](images/rate-start-img.png)
+![Screenshot](images/rate-start-img.png)
 
-You can use scrolling text instead of an image if you prefer.
+Du kannst, wenn du möchtest, anstelle eines Bildes auch einen Bildlauftext verwenden.
 
-+ A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
++ Eine Bewertung sollte erst angezeigt werden, wenn **beide Tasten** gedrückt werden. Füge deinem Projekt ein neues `auf Schaltfläche A+B drücken` Ereignis hinzu.
 
-![screenshot](images/rate-ab.png)
+![Screenshot](images/rate-ab.png)
 
-+ Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
++ Füge Code hinzu, um 1 Sekunde lang ein Fragezeichen anzuzeigen und die Spannung aufzubauen, bevor du den Freunden ihre Bewertung gibst.
 
-![screenshot](images/rate-question.png)
+![Screenshot](images/rate-question.png)
 
-+ Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
++ Teste deinen Code. Wenn du die Tasten **A und B gleichzeitig**drückst, sollte ein Fragezeichen auf dem Bildschirm blinken.
 
-![screenshot](images/rate-question-test.png)
+![Screenshot](images/rate-question-test.png)
