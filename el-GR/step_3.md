@@ -1,25 +1,25 @@
-## Displaying a rating
+## Προβολή μιας βαθμολογίας
 
-Show a friendship rating on the screen.
+Εμφάνισε μια βαθμολογία φιλίας στην οθόνη.
 
-+ Click 'Variables' and make a new variable called `rating`.
++ Κάνε κλικ στις 'Μεταβλητές' και φτιάξε μια νέα μεταβλητή με την ονομασία `βαθμολογία`.
 
-![screenshot](images/rate-rating.png)
+![στιγμιότυπο οθόνης](images/rate-rating.png)
 
-+ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
++ Σύρε ένα μπλοκ `set` στο τέλος του κώδικα `μετά το πάτημα των κουμπιών A+B` και επίλεξε τη μεταβλητή `βαθμολογία`:
 
-![screenshot](images/rate-rating-set.png)
+![στιγμιότυπο οθόνης](images/rate-rating-set.png)
 
-+ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
++ Κάνε κλικ στο 'Αριθμοί' και χρησιμοποίησε το μπλοκ `τυχαία επιλογή` για να ορίσεις τη βαθμολογία σε τυχαίο αριθμό μεταξύ 0 και 100.
 
-![screenshot](images/rate-rating-random.png)
+![στιγμιότυπο οθόνης](images/rate-rating-random.png)
 
-+ Add code to show the rating on the screen.
++ Πρόσθεσε τον κώδικα για να εμφανιστεί η βαθμολογία στην οθόνη.
 
-![screenshot](images/rate-rating-show.png)
+![στιγμιότυπο οθόνης](images/rate-rating-show.png)
 
-+ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
++ Τέλος, μετά από μια καθυστέρηση, εμφάνισε ξανά τις οδηγίες. Να θυμάσαι ότι μπορείς να χρησιμοποιήσεις το δεξί κλικ και στη συνέχεια το 'Αντίγραφο' για να αντιγράψεις ένα μπλοκ.
 
-![screenshot](images/rate-instruct.png)
+![στιγμιότυπο οθόνης](images/rate-instruct.png)
 
-+ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
++ Δοκίμασε τον κώδικά σου. Τώρα, αν πατήσεις ταυτόχρονα τα κουμπιά Α και Β, μία τυχαία βαθμολογία θα πρέπει να εμφανιστεί.
