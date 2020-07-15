@@ -1,23 +1,23 @@
-## Best mates
+## Beste Freunde
 
-Let's display a heart when two friends have a high rating.
+Lass uns ein Herz zeigen, wenn zwei Freunde eine hohe Bewertung haben.
 
-+ Add an `if` block to your code, just before the instructions are shown.
++ Füge deinem Code einen `wenn`-Block hinzu, kurz bevor die Anweisungen angezeigt werden.
 
-![screenshot](images/rate-if.png)
+![Screenshot](images/rate-if.png)
 
-+ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
++ Du möchtest ein Herz anzeigen, wenn die Bewertung hoch ist (z. B. über 75). Ziehe dazu einen Vergleichsblock von 'Logik' auf 'Wenn' und wähle '>':
 
-![screenshot](images/rate-compare.png)
+![Screenshot](images/rate-compare.png)
 
-+ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
++ Ziehe deine Variable `Bewertung` auf die linke Seite deines `wenn`-Blocks, und füge die Zahl `75` auf der rechten Seite hinzu.
 
-![screenshot](images/rate-75.png)
+![Screenshot](images/rate-75.png)
 
-Any code inside this `if` block will run if the rating is over 75.
+Jeder Code in diesem `wenn`-Block wird ausgeführt, wenn die Bewertung über 75 liegt.
 
-+ Show a heart image on the screen for 1 second if the rating is over 75.
++ Zeige 1 Sekunde lang ein Herzbild auf dem Bildschirm an, wenn die Bewertung über 75 liegt.
 
-![screenshot](images/rate-heart.png)
+![Screenshot](images/rate-heart.png)
 
-+ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
++ Teste deinen Code. Wird ein Bild eines Herzens angezeigt, wenn die Bewertung über 75 liegt? Möglicherweise musst du es einige Male versuchen um es zu testen!
