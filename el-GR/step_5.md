@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Low rating
+## Πρόκληση: Χαμηλή βαθμολογία
 
-Can you display a cross or a sad face for a rating under 25?
+Μπορείς να εμφανίσεις ένα σταυρό ή μία θλιμμένη φατσούλα για μια βαθμολογία κάτω από 25;
 
 \--- /challenge \---
