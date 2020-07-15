@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Low rating
+## Herausforderung: Niedrige Bewertung
 
-Can you display a cross or a sad face for a rating under 25?
+Kannst du ein Kreuz oder ein trauriges Gesicht für eine Bewertung unter 25 anzeigen?
 
-\--- /challenge \---
+Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
