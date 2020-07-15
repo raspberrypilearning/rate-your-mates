@@ -1,11 +1,11 @@
-## Adding an animation
+## Προσθήκη κινούμενης εικόνας
 
-Let's display short animations in your program.
+Ας προβάλουμε σύντομες κινούμενες εικόνες στο πρόγραμμά σου.
 
-+ Here's the code for displaying a question mark for 1 second before clearing the screen:
++ Ακολουθεί ο κώδικας για την εμφάνιση ενός ερωτηματικού για 1 δευτερόλεπτο πριν από την εκκαθάριση της οθόνης:
 
-![screenshot](images/rate-question-code.png)
+![στιγμιότυπο οθόνης](images/rate-question-code.png)
 
-+ To make this question mark flash 5 times, you'll need to put this code inside a `repeat` loop and set the number of repeats to '5':
++ Για να κάνεις αυτό το ερωτηματικό να αναβοσβήσει 5 φορές, θα χρειαστεί να τοποθετήσεις αυτόν τον κώδικα σε ένα βρόχο `επανάληψης` και να ορίσεις τον αριθμό επαναλήψεων στο '5':
 
-![screenshot](images/rate-question-repeat.png)
+![στιγμιότυπο οθόνης](images/rate-question-repeat.png)
