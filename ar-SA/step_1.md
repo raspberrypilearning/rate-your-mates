@@ -1,56 +1,56 @@
-## Introduction
+## المقدمة
 
-You are going to code your micro:bit to tell you how compatible you are with your friends.
+يجب عليك أن تقوم بتشفير micro:bit الخاص بك لنخبرك بمدى توافقك مع أصدقائك.
 
-**Instructions**: If you're reading this online, press **A+B** on the micro:bit below with a friend to find out your friendship rating.
+التعليمات: اذا كنت تقرأ هذا عبر الانترنت, اضغط على A+B على micro:bit في الاسفل مع صديقك لمعرفة تصنيف صداقتك.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iLDhcVa0K2Fd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
+في هذا المشروع, سيتعلم الأطفال كيفية الاستفادة من المتغيرات والأرقام العشوائية عن طريق إنشاء برنامج التوافق. سيضغط كلا المستخدمان الزر الموجود في micro:bit والذي بدوره سيخبرهم عن نسبة التوافق.
 
-## Resources
+## الموارد
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
+لهذا المشروع, يجب استخدام [MakeCode(PTX)](http://jumpto.cc/mb-new) ويجب استخدام mircobit editor.
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+يمكنك العثور على النسخة الكاملة من هذا المشروع على [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), وجميع ملفات hex يمكن تحميلها عن طريق الضغط على رابط هذا المشروع "تحميل مواد المشروع" الذي يحتوي على:
 
 * microbit-Rate-Your-Mates.hex
 
-## Learning Objectives
+## أهداف التعلم
 
-* `>` and `<` relational operators;
-* Repetition (`for` loop).
+* `>` و `<` مشغلين علاقات;
+* التكرار (`لـ ` حلقة).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## التحديات
 
-* "Low rating" - Use of `if` statement and `<` relational operator to show a cross or a sad face if the rating is under 25.
-* "More animations" - Use of a `for` loop to create more animations.
+* "تصنيف منخفض" - استخدم ` إذا ` بيان و `<` عامل ارتباط لإظهار صليب أو وجه حزين إذا كان التصنيف أقل من 25.
+* المزيد من الرسوم المتحركة - استخدم `for` لصنع المزيد من الرسوم المتحركة.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: مواد المشروع
 
-## Club leader resources
+## موارد قادة النادي
 
-* [online completed project](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
-* [.hex project file to transfer onto your micro:bit](resources/microbit-Rate-Your-Mates.hex)
+* [مشروع مكتمل على الإنترنت](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
+* [ملف مشروع.hex للتحويل إلى جهاز micro:bit الخاص بك](resources/microbit-Rate-Your-Mates.hex)
 
 \--- /collapse \---
