@@ -1,23 +1,23 @@
-## Best mates
+## أفضل الأصحاب
 
-Let's display a heart when two friends have a high rating.
+لنضع قلب عندما يكون هناك تقييم عالي لصديقين.
 
-+ Add an `if` block to your code, just before the instructions are shown.
++ أضف ` إذا ` منع رمزك ، قبل عرض التعليمات مباشرة.
 
-![screenshot](images/rate-if.png)
+![لقطة الشاشة](images/rate-if.png)
 
-+ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
++ تريد عرض قلب إذا كان التقييم عاليا (قل أكثر من 75). للقيام بذلك، اسحب كتلة مقارنة من "المنطق" إلى "إذا" وحدد ">":
 
-![screenshot](images/rate-compare.png)
+![لقطة الشاشة](images/rate-compare.png)
 
-+ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
++ اسحب متغير `تقييم ` إلى الجانب الأيسر من كتلة `إذا` وأضف الرقم `75` إلى الجانب الأيمن.
 
-![screenshot](images/rate-75.png)
+![لقطة الشاشة](images/rate-75.png)
 
-Any code inside this `if` block will run if the rating is over 75.
+أي شفرة داخل هذا الكود سيتم تشغيلها اذا كان التقييم اكثر من 75.
 
-+ Show a heart image on the screen for 1 second if the rating is over 75.
++ ضع صورة قلب على الشاشة لمدة ثانية واحدة اذا كان التقييم اكثر من 75.
 
-![screenshot](images/rate-heart.png)
+![لقطة الشاشة](images/rate-heart.png)
 
-+ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
++ اختبر مشروعك. هل تظهر صورة القلب اذا كان التقييم اكثر من 75؟ قد تضطر الى المحاولة عدة مرات لاختباره!
