@@ -1,23 +1,23 @@
-## Best mates
+## ಅತ್ಯುತ್ತಮ ಸ್ನೇಹಿತರು
 
-Let's display a heart when two friends have a high rating.
+ಇಬ್ಬರು ಸ್ನೇಹಿತರು ಹೆಚ್ಚಿನ ರೇಟಿಂಗ್ ಹೊಂದಿರುವಾಗ ಹೃದಯದ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸೋಣ.
 
-+ Add an `if` block to your code, just before the instructions are shown.
++ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಕೋಡ್‌ಗೆ `if` ಬ್ಲಾಕ್ ಸೇರಿಸಿ.
 
-![screenshot](images/rate-if.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-if.png)
 
-+ You want to display a heart if the rating is high (say over 75). To do this, drag a comparison block from 'Logic' to your 'if' and select '>':
++ ರೇಟಿಂಗ್ ಹೆಚ್ಚಿದ್ದರೆ (75 ಕ್ಕಿಂತ ಹೆಚ್ಚು), ನೀವು ಹೃದಯದ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಬಯಸುತ್ತೀರಿ. ಹೀಗೆ ಮಾಡಲು, ನಿಮ್ಮ ಹೋಲಿಕೆ ಬ್ಲಾಕ್ ಅನ್ನು 'Logic' ನಿಂದ 'if' ಗೆ ಎಳೆದು '>' ಆಯ್ಕೆಮಾಡಿ:
 
-![screenshot](images/rate-compare.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-compare.png)
 
-+ Drag your `rating` variable into the left side of your `if` block, and add the number `75` to the right side.
++ ನಿಮ್ಮ `rating` ವೇರಿಯಬಲ್ ಅನ್ನು ನಿಮ್ಮ `if` ಬ್ಲಾಕ್ ನ ಎಡಭಾಗಕ್ಕೆ ಎಳೆಯಿರಿ ಮತ್ತು ಬಲಭಾಗಕ್ಕೆ `75` ಸಂಖ್ಯೆಯನ್ನು ಸೇರಿಸಿ.
 
-![screenshot](images/rate-75.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-75.png)
 
-Any code inside this `if` block will run if the rating is over 75.
+ರೇಟಿಂಗ್ 75 ಕ್ಕಿಂತ ಹೆಚ್ಚಿದ್ದರೆ, ಈ `if` ಬ್ಲಾಕ್ ಒಳಗೆ ಯಾವುದೇ ಕೋಡ್ ಇದ್ದರೆ ಚಾಲನೆಯಾಗುತ್ತದೆ.
 
-+ Show a heart image on the screen for 1 second if the rating is over 75.
++ ರೇಟಿಂಗ್ 75 ಕ್ಕಿಂತ ಹೆಚ್ಚಿದ್ದರೆ, 1 ಸೆಕೆಂಡಿಗೆ ಪರದೆಯ ಮೇಲೆ ಹೃದಯದ ಚಿತ್ರವನ್ನು ತೋರಿಸಿ.
 
-![screenshot](images/rate-heart.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-heart.png)
 
-+ Test your code. Does an image of a heart show if the rating is over 75? You might have to try a few times to test it!
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ. ರೇಟಿಂಗ್ 75 ಕ್ಕಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ಹೃದಯದ ಚಿತ್ರ ತೋರಿಸುತ್ತಿದೆಯೇ? ಇದನ್ನು ಪರೀಕ್ಷಿಸಲು ನೀವು ಕೆಲವು ಬಾರಿ ಪ್ರಯತ್ನಿಸಬೇಕಾಗಬಹುದು!
