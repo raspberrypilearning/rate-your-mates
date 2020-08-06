@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Low rating
+## ಸವಾಲು: ಕಡಿಮೆ ರೇಟಿಂಗ್
 
-Can you display a cross or a sad face for a rating under 25?
+25 ಕ್ಕಿಂತ ಕಡಿಮೆ ರೇಟಿಂಗ್‌ ಇದ್ದರೆ ನೀವು ಅಡ್ಡ ಅಥವಾ ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸಬಹುದೇ?
 
 \--- /challenge \---
