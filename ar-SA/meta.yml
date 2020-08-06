@@ -1,13 +1,13 @@
 ---
 hero_image: images/rate-your-mates.png
-theme: turquoise
+theme: فيروزي
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rate Your Mates
-description: Use your micro:bit to find out your compatibility with friends!
+title: قيّم زملائك
+description: استخدم micro:bit الخاص بك لايجاد مدى توافقك مع الأصدقاء!
 original_url: https://codeclubprojects.org/en-GB/microbit/rate-your-mates
 interests: ''
 technologies: microbit
@@ -18,16 +18,16 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Pressing buttons together
+    title: اضغط على الأزرار معاً
   - 
-    title: Displaying a rating
+    title: عرض التقييم
   - 
-    title: Best mates
+    title: أفضل الزملاء
   - 
-    title: 'Challenge: Low rating'
+    title: 'التحدي: تقييم منخفض'
   - 
-    title: Adding an animation
+    title: أضافة رسوم متحركة
   - 
-    title: 'Challenge: More animations'
+    title: 'التحدي: المزيد من الرسوم المتحركة'
