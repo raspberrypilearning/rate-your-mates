@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Low rating
+## التحدي: تقييم منخفض
 
-Can you display a cross or a sad face for a rating under 25?
+هل يمكنك أضافة علامة خطأ او وجه حزين (ستيكر او ايموجي) لتصينف أقل من 25؟
 
 \--- /challenge \---
