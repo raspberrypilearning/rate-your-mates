@@ -1,23 +1,23 @@
-## Pressing buttons together
+## الضغط على الأزرار معا
 
-Let's start your program when the A and B buttons are pressed together.
+لنبدأ برنامجك عندما تضغط على زر A و زر B معاً.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
++ اذهب إلى<a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new </a> للبدأ بمشروع جديد في محرر إنشاء الكودات (PXT)MakeCode. سمِّ مشروعك الجديد 'قيّم زملائك'.
 
-+ When the micro:bit starts, display an image showing that both buttons should be pressed.
++ عند بدء تشغيل micro: bit ، اعرض صورة توضح أنه يجب الضغط على الزرين.
 
-![screenshot](images/rate-start-img.png)
+![لقطة شاشة](images/rate-start-img.png)
 
-You can use scrolling text instead of an image if you prefer.
+يمكنك استخدام نص التمرير بدلاً من صورة إذا كنت تفضل ذلك.
 
-+ A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
++ لا يجب إظهار التقييم حتى **يتم الضغط على الزر**. إضافة حدث جديد `على الزر A+B اضغط ` إلى مشروعك.
 
-![screenshot](images/rate-ab.png)
+![لقطة الشاشة](images/rate-ab.png)
 
-+ Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
++ أضف رمزًا لإظهار علامة استفهام لمدة ثانية واحدة ، لبناء التشويق قبل إعطاء الأصدقاء تقييمهم.
 
-![screenshot](images/rate-question.png)
+![لقطة الشاشة](images/rate-question.png)
 
-+ Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
++ اختبر الرمز الخاص بك. عند الضغط على الأزرار ** A و B معًا ** ، علامة الاستفهام يجب أن تُومض على الشاشة.
 
-![screenshot](images/rate-question-test.png)
+![لقطة الشاشة](images/rate-question-test.png)
