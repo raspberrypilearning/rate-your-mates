@@ -1,25 +1,25 @@
-## Displaying a rating
+## عرض التقييم
 
-Show a friendship rating on the screen.
+عرض تقييم الصداقة على الشاشة.
 
-+ Click 'Variables' and make a new variable called `rating`.
++ اضغط على"المتغيرات" وقم بعمل متغير حديد يسمى `تصنيف`.
 
-![screenshot](images/rate-rating.png)
+![لقطة شاشة](images/rate-rating.png)
 
-+ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
++ اسحب الكتلة `تعيين ` إلى نهاية `على الزر A+B مضغوط` وحدد متغير `تقييم `:
 
-![screenshot](images/rate-rating-set.png)
+![لقطة شاشة](images/rate-rating-set.png)
 
-+ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
++ اضغط فوق 'حساب'، واستخدم ` اختيار عشوائي ` مجموعة لضبط التقييم لرقم عشوائي بين ٠ و ١٠٠.
 
-![screenshot](images/rate-rating-random.png)
+![لقطة الشاشة](images/rate-rating-random.png)
 
-+ Add code to show the rating on the screen.
++ أضف تعليمة برمجية لإظهار التقييم على الشاشة.
 
-![screenshot](images/rate-rating-show.png)
+![لقطة الشاشة](images/rate-rating-show.png)
 
-+ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
++ أخيرًا ، بعد التأخير ، اعرض التعليمات مرة أخرى. تذكر أنه يمكنك استخدام النقر بزر الفأرة الأيمن ثم "تكرار" لنسخ مجموعة.
 
-![screenshot](images/rate-instruct.png)
+![لقطة الشاشة](images/rate-instruct.png)
 
-+ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
++ اختبر مشروعك. الآن ، إذا ضغطت على الزرين A و B معًا ، سيتم عرض تصنيف عشوائي.
