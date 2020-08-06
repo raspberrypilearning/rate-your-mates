@@ -1,23 +1,23 @@
-## Pressing buttons together
+## ಗುಂಡಿ(button) ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಒತ್ತುವುದು
 
-Let's start your program when the A and B buttons are pressed together.
+A ಮತ್ತು B ಗುಂಡಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಒತ್ತಿದಾಗ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Rate Your Mates'.
++ MakeCode (PXT) ಸಂಪಾದಕದಲ್ಲಿ ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a>ಗೆ ಹೋಗಿ. ನಿಮ್ಮ ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು 'Rate Your Mates' ಎಂದು ಕರೆಯಿರಿ.
 
-+ When the micro:bit starts, display an image showing that both buttons should be pressed.
++ Micro:bit ಪ್ರಾರಂಭವಾದಾಗ, ಎರಡೂ ಗುಂಡಿಗಳನ್ನು ಒತ್ತಬೇಕು ಎಂದು ತೋರಿಸುವ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಿ.
 
-![screenshot](images/rate-start-img.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-start-img.png)
 
-You can use scrolling text instead of an image if you prefer.
+ನೀವು ಬಯಸಿದಲ್ಲಿ ಚಿತ್ರದ ಬದಲು ಸ್ಕ್ರೋಲಿಂಗ್ ಪಠ್ಯವನ್ನು ಬಳಸಬಹುದು.
 
-+ A rating shouldn't be shown until **both buttons are pressed**. Add a new `on button A+B pressed` event to your project.
++ **ಎರಡೂ ಗುಂಡಿಗಳನ್ನು ಒತ್ತುವವರೆಗೆ** ರೇಟಿಂಗ್ ಅನ್ನು ತೋರಿಸಬಾರದು. `ಎ + ಬಿ ಒತ್ತಿದ` ಎಂಬ ಹೊಸ ಈವೆಂಟ್ಟನ್ನು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಗೆ ಸೇರಿಸಿ.
 
-![screenshot](images/rate-ab.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-ab.png)
 
-+ Add code to show a question mark for 1 second, to build the suspense before giving the friends their rating.
++ ಸ್ನೇಹಿತರಿಗೆ ಅವರ ರೇಟಿಂಗ್ ನೀಡುವ ಮೊದಲು ಸಸ್ಪೆನ್ಸ್ ನಿರ್ಮಿಸಲು, 1 ಸೆಕೆಂಡಿಗೆ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯನ್ನು ತೋರಿಸಲು ಕೋಡ್ ಸೇರಿಸಿ.
 
-![screenshot](images/rate-question.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-question.png)
 
-+ Test our your code. When you press buttons **A and B together**, a question mark should flash onto the screen.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ. ನೀವು **ಎ ಮತ್ತು ಬಿ ಗುಂಡಿಗಳನ್ನು ಒಟ್ಟಿಗೆ** ಒತ್ತಿದಾಗ, ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯು ಪರದೆಯ ಮೇಲೆ ಮಿಂಚಬೇಕು.
 
-![screenshot](images/rate-question-test.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-question-test.png)
