@@ -1,25 +1,25 @@
-## Displaying a rating
+## ರೇಟಿಂಗ್ ಪ್ರದರ್ಶಿಸುವುದು
 
-Show a friendship rating on the screen.
+ಸ್ನೇಹದ ರೇಟಿಂಗ್ ಅನ್ನು ಪರದೆಯ ಮೇಲೆ ತೋರಿಸಿ.
 
-+ Click 'Variables' and make a new variable called `rating`.
++ 'Variables' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು `rating` ಎಂಬ ಹೊಸ ವೇರಿಯಬಲ್ ಮಾಡಿ.
 
-![screenshot](images/rate-rating.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-rating.png)
 
-+ Drag a `set` block to the end of your `on button A+B pressed` code and select the `rating` variable:
++ `set` ಬ್ಲಾಕ್ ಅನ್ನು ನಿಮ್ಮ `on button A+B pressed` ಕೋಡ್ ನ ಕೊನೆಯವರೆಗೂ ಎಳೆಯಿರಿ ಮತ್ತು `rating` ವೇರಿಯಬಲ್ ಆಯ್ಕೆಮಾಡಿ:
 
-![screenshot](images/rate-rating-set.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-rating-set.png)
 
-+ Click 'Math', and use the `pick random` block to set the rating to a random number between 0 and 100.
++ 'Math' ಕ್ಲಿಕ್ ಮಾಡಿ, ಮತ್ತು `pick random` ಬ್ಲಾಕ್ ಬಳಸಿ ರೇಟಿಂಗ್ ಅನ್ನು 0 ಮತ್ತು 100 ರ ನಡುವೆ ರೆಂಡಮ್ ಸಂಖ್ಯೆಗೆ ಹೊಂದಿಸಿ.
 
-![screenshot](images/rate-rating-random.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-rating-random.png)
 
-+ Add code to show the rating on the screen.
++ ರೇಟಿಂಗ್ ಅನ್ನು ಪರದೆಯ ಮೇಲೆ ತೋರಿಸಲು ಕೋಡ್ ಸೇರಿಸಿ.
 
-![screenshot](images/rate-rating-show.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-rating-show.png)
 
-+ Finally, after a delay, display the instructions again. Remember that you can use right-click then 'Duplicate' to copy a block.
++ ಅಂತಿಮವಾಗಿ, ವಿಳಂಬದ ನಂತರ, ಸೂಚನೆಗಳನ್ನು ಮತ್ತೆ ಪ್ರದರ್ಶಿಸಿ. ನೆನಪಿಡಿ ಬ್ಲಾಕ್ ಅನ್ನು ನಕಲಿಸಲು ನೀವು ಬಲ-ಕ್ಲಿಕ್ ಮಾಡಿ ನಂತರ 'Duplicate' ಅನ್ನು ಬಳಸಬಹುದು.
 
-![screenshot](images/rate-instruct.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rate-instruct.png)
 
-+ Test your code. Now, if you press buttons A and B together, a random rating should be displayed.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ. ಈಗ, ನೀವು A ಮತ್ತು B ಗುಂಡಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಒತ್ತಿದರೆ, ಯಾವುದಾದರೊಂದು ರೇಟಿಂಗ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಬೇಕು.
