@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More animations
+## التحدي: مزيد من الرسوم المتحركة
 
-Can you make your other images flash on the screen?
+هل يمكنك جعل صورك الأخرى تومض على الشاشة؟
 
 \--- /challenge \---
