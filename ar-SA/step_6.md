@@ -1,11 +1,11 @@
-## Adding an animation
+## أضافة رسوم متحركة
 
-Let's display short animations in your program.
+لنعرض رسوم متحركة قصيرة في برنامجك.
 
-+ Here's the code for displaying a question mark for 1 second before clearing the screen:
++ إليك التعليمات البرمجية لعرض علامة استفهام لمدة ثانية واحدة قبل مسح الشاشة:
 
-![screenshot](images/rate-question-code.png)
+![لقطة شاشة](images/rate-question-code.png)
 
-+ To make this question mark flash 5 times, you'll need to put this code inside a `repeat` loop and set the number of repeats to '5':
++ لجعل علامة الاستفهام هذه فلاش 5 مرات، ستحتاج إلى وضع هذا الرمز داخل حلقة `كرر` وتعيين عدد التكرار إلى '5':
 
-![screenshot](images/rate-question-repeat.png)
+![لقطة شاشة](images/rate-question-repeat.png)
