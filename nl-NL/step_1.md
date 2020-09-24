@@ -10,7 +10,7 @@ Je gaat je micro:bit programmeren om je te vertellen hoeveel je gemeenschappelij
 
 ### Aanvullende informatie voor clubleiders
 
-Als u dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
+Als u dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
 ## \--- collapse \---
 
