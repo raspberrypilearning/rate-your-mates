@@ -6,7 +6,7 @@ We gaan een hart tonen wanneer twee vrienden een hoge beoordeling hebben.
 
 ![schermafbeelding](images/rate-if.png)
 
-+ Je wilt een hart tonen als de beoordeling hoog is (laten we zeggen meer dan 75). Om dit te doen, sleep een vergelijkingsblok van "Logic" naar je "if" en selecteer '>':
++ Je wilt een hart tonen als de beoordeling hoog is (laten we zeggen meer dan 75). Om dit te doen, sleep een vergelijkingsblok van "Logisch" naar je "als" en selecteer '>':
 
 ![schermafbeelding](images/rate-compare.png)
 
