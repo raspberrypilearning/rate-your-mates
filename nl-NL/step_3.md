@@ -2,7 +2,7 @@
 
 Een vriendschapsbeoordeling op het scherm laten zien.
 
-+ Klik op 'Variables' en maak een nieuwe variabele genaamd `beoordeling`.
++ Klik op 'Variabelen' en maak een nieuwe variabele genaamd `beoordeling`.
 
 ![schermafbeelding](images/rate-rating.png)
 
