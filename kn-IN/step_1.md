@@ -51,6 +51,6 @@
 ## ಕ್ಲಬ್ ಮುಖಂಡರ ಸಂಪನ್ಮೂಲಗಳು
 
 * [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
-* [.hex ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ಲ್ ಅನ್ನು ನಿಮ್ಮ micro:bit‌ಗೆ ವರ್ಗಾಯಿಸಲು](resources/microbit-Rate-Your-Mates.hex)
+* [.hex ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ಲ್ ಅನ್ನು ನಿಮ್ಮ micro:bit ‌ಗೆ ವರ್ಗಾಯಿಸಲು](resources/microbit-Rate-Your-Mates.hex)
 
 \--- /collapse \---
