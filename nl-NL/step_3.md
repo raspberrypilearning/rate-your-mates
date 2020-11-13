@@ -1,8 +1,8 @@
-## Een beoordeling weergeven
+## Een beoordeling laten zien
 
 Een vriendschapsbeoordeling op het scherm laten zien.
 
-+ Klik op 'Variables' en maak een nieuwe variabele genaamd `beoordeling`.
++ Klik op 'Variabelen' en maak een nieuwe variabele genaamd `beoordeling`.
 
 ![schermafbeelding](images/rate-rating.png)
 
@@ -18,7 +18,7 @@ Een vriendschapsbeoordeling op het scherm laten zien.
 
 ![schermafbeelding](images/rate-rating-show.png)
 
-+ Tenslotte, na een vertraging, toon de instructies opnieuw. Vergeet niet dat je rechtermuisklik kunt gebruiken om een blok te dupliceren.
++ Toon tenslotte de instructies opnieuw, na enige vertraging. Vergeet niet dat je de rechtermuisklik kunt gebruiken om een blok te dupliceren.
 
 ![schermafbeelding](images/rate-instruct.png)
 
