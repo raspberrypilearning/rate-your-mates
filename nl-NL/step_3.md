@@ -1,4 +1,4 @@
-## Een beoordeling weergeven
+## Een beoordeling laten zien
 
 Een vriendschapsbeoordeling op het scherm laten zien.
 
