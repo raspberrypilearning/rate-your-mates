@@ -1,56 +1,56 @@
 ## Introduction
 
-You are going to code your micro:bit to tell you how compatible you are with your friends.
+Tu vas programmer ton micro:bit pour te dire à quel point tu es compatible avec tes amis.
 
-**Instructions**: If you're reading this online, press **A+B** on the micro:bit below with a friend to find out your friendship rating.
+**Instructions** : Si tu lis ceci en ligne, appuie sur **A+B** de la micro:bit ci-dessous avec un ami pour découvrir la force de ton amitié.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iLDhcVa0K2Fd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Additional information for club leaders
+### Informations complémentaires pour les responsables de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notes pour le responsable de club
 
-## Introduction:
+## Introduction :
 
-In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
+Dans ce projet, les enfants apprendront à utiliser les variables et les nombres aléatoires en créant un programme de compatibilité. Deux utilisateurs appuieront chacun un bouton sur le micro:bit, qui leur dira ensuite leur pourcentage de compatibilité.
 
-## Resources
+## Ressources
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
+Pour ce projet, l'éditeur microbit [MakeCode (PXT)](http://jumpto.cc/mb-new) devrait être utilisé.
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+Vous pouvez trouver une version terminée de ce projet sur [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952), et le fichier compilé .hex peut être téléchargé en cliquant sur le lien « Télécharger le matériel du projet » pour ce projet, qui contient :
 
 * microbit-Rate-Your-Mates.hex
 
-## Learning Objectives
+## Objectifs d'apprentissage
 
-* `>` and `<` relational operators;
-* Repetition (`for` loop).
+* Les opérateurs de comparaison `>` et `<`,
+* Répétition (boucle `pour` ).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](http://rpf.io/curriculum) :
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utiliser des constructions de programmation de base pour créer des programmes simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Défis
 
-* "Low rating" - Use of `if` statement and `<` relational operator to show a cross or a sad face if the rating is under 25.
-* "More animations" - Use of a `for` loop to create more animations.
+* « Note faible » - Utilisation de l'instruction `si` et de l'opérateur relationnel `<` pour montrer une croix ou un visage triste si la cote est inférieure à 25.
+* « Plus d'animation » - Utilise une boucle `pour` pour créer plus d'animations.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Matériel pour projet
 
-## Club leader resources
+## Ressources pour le responsable de club
 
-* [online completed project](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
-* [.hex project file to transfer onto your micro:bit](resources/microbit-Rate-Your-Mates.hex)
+* [projet en ligne terminé](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
+* [Fichier de projet .hex à transférer sur ton micro:bit](resources/microbit-Rate-Your-Mates.hex)
 
 \--- /collapse \---
