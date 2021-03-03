@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More animations
+## Défi : Plus d'animations
 
-Can you make your other images flash on the screen?
+Peux-tu faire clignoter d'autres images sur l'écran ?
 
 \--- /challenge \---
