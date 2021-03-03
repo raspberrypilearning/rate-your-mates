@@ -1,26 +1,25 @@
 ## Afficher la note
 
-Affiche la force de l'amitié sur l'écran.
+Affiche une note d'amitié à l'écran.
 
-+ Clique sur 'Variables' et ajoute une variable appelée `amitié`.
++ Clique sur « Variables » et ajoute une variable appelée `note`.
 
-![screenshot](images/rate-rating.png)
+![capture d'écran](images/rate-rating.png)
 
-+ Ajoute un bloc `définir ... à` à la fin du bloc `lorsque le bouton A+B est pressé` est sélectionne la variable `amitié`&nbsp;:
++ Fais glisser un bloc `définir à` à la fin de ton code `lorsque le bouton A+B est pressé` et sélectionne la variable `note` :
 
-![screenshot](images/rate-rating-set.png)
+![capture d’écran](images/rate-rating-set.png)
 
-+ Clique sur 'Math', et utilise un bloc `choisir au hasard entre 0 et ...` pour définir l'amitié, en prenant un nombre aléatoire entre 0 et 100.
++ Clique sur « Math », et utilise un bloc `choisir au hasard` pour définir la note, en prenant un nombre aléatoire entre 0 et 100.
 
-![screenshot](images/rate-rating-random.png)
+![capture d'écran](images/rate-rating-random.png)
 
-+ Ajoute le code pour afficher l'`amitié` sur l'écran.
++ Ajoute le code pour afficher la `note` sur l'écran.
 
-![screenshot](images/rate-rating-show.png)
+![capture d'écran](images/rate-rating-show.png)
 
-+ Enfin, après un délai, affiche les instructions à nouveau.
-  Souviens-toi que tu peux utiliser le clic-droit puis 'Dupliquer' pour copier un bloc.
++ Enfin, après un délai, affiche les instructions à nouveau. Souviens-toi que tu peux utiliser le clic-droit puis « Dupliquer » pour copier un bloc.
 
-![screenshot](images/rate-instruct.png)
+![capture d'écran](images/rate-instruct.png)
 
-+ Teste ton code. Maintenant, si tu presses les boutons A et B ensemble, un nombre au hasard devrait s'afficher.
++ Teste ton code. Maintenant, si tu appuies sur les boutons A et B ensemble, une note aléatoire devrait être affichée.
