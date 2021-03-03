@@ -1,12 +1,11 @@
 ## Ajouter des animations
 
-Ajoute de petites animations dans ton programme.
+Ajoutons de petites animations dans ton programme.
 
-+ Voici le code pour afficher un point d'interrogation pendant 1 seconde avant d'effacer l'écran&nbsp;:
++ Voici le code pour afficher un point d'interrogation pendant 1 seconde avant d'effacer l'écran :
 
-![screenshot](images/rate-question-code.png)
+![capture d'écran](images/rate-question-code.png)
 
 + Pour faire clignoter ce point d'interrogation 5 fois, tu devras mettre ce code à l'intérieur d'une boucle `répéter` et régler le nombre de répétition à 5.
 
-![screenshot](images/rate-question-repeat.png)
-
+![capture d’écran](images/rate-question-repeat.png)
