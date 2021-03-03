@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Low rating
+## Défi : Faible note
 
-Can you display a cross or a sad face for a rating under 25?
+Peux-tu afficher une croix ou un visage triste pour une valeur de note inférieure à 25 ?
 
 \--- /challenge \---
