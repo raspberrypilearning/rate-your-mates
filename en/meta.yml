@@ -16,11 +16,13 @@ hardware: microbit
 software: ''
 version: 3.0.1
 last_tested: 2019-03-06
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Pressing buttons together
 - title: Displaying a rating
 - title: Best mates
 - title: 'Challenge: Low rating'
 - title: Adding an animation
+  completion: internal
 - title: 'Challenge: More animations'

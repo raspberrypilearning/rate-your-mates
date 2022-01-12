@@ -17,10 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Introduction
-  - title: Appuyer sur les deux boutons ensemble
-  - title: Afficher la note
-  - title: Les meilleurs amis
-  - title: 'Défi : Faible note'
-  - title: Ajouter des animations
-  - title: 'Défi : Plus d''animations'
+- title: Introduction
+  completion: engaged
+- title: Appuyer sur les deux boutons ensemble
+- title: Afficher la note
+- title: Les meilleurs amis
+- title: 'Défi : Faible note'
+- title: Ajouter des animations
+  completion: internal
+- title: 'Défi : Plus d''animations'
