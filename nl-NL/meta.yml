@@ -17,10 +17,14 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Inleiding
-  - title: Knoppen gelijktijdig indrukken
-  - title: Een beoordeling laten zien
-  - title: Beste vrienden
-  - title: 'Uitdaging: Lage beoordeling'
-  - title: Een animatie toevoegen
-  - title: 'Uitdaging: Meer animaties'
+- title: Inleiding
+- title: Knoppen gelijktijdig indrukken
+- title: Een beoordeling laten zien
+  completion:
+  - engaged
+- title: Beste vrienden
+- title: 'Uitdaging: Lage beoordeling'
+- title: Een animatie toevoegen
+  completion:
+  - internal
+- title: 'Uitdaging: Meer animaties'

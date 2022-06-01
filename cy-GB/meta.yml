@@ -17,10 +17,14 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Cyflwyniad
-  - title: Pwyso botymau gyda'i gilydd
-  - title: Dangos gradd
-  - title: Ffrindiau gorau
-  - title: 'Her: Gradd isel'
-  - title: Ychwanegu animeiddiad
-  - title: 'Her: Mwy o animeiddiadau'
+- title: Cyflwyniad
+- title: Pwyso botymau gyda'i gilydd
+- title: Dangos gradd
+  completion:
+  - engaged
+- title: Ffrindiau gorau
+- title: 'Her: Gradd isel'
+- title: Ychwanegu animeiddiad
+  completion:
+  - internal
+- title: 'Her: Mwy o animeiddiadau'

@@ -17,10 +17,14 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: المقدمة
-  - title: اضغط على الأزرار معاً
-  - title: عرض التقييم
-  - title: أفضل الزملاء
-  - title: 'التحدي: تقييم منخفض'
-  - title: أضافة رسوم متحركة
-  - title: 'التحدي: المزيد من الرسوم المتحركة'
+- title: المقدمة
+- title: اضغط على الأزرار معاً
+- title: عرض التقييم
+  completion:
+  - engaged
+- title: أفضل الزملاء
+- title: 'التحدي: تقييم منخفض'
+- title: أضافة رسوم متحركة
+  completion:
+  - internal
+- title: 'التحدي: المزيد من الرسوم المتحركة'
