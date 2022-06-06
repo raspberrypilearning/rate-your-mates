@@ -18,11 +18,13 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: Introducción
-  completion: engaged
 - title: Presionar ambas teclas juntas
 - title: Mostrar una calificación
+  completion:
+  - engaged
 - title: Mejores compañeros
 - title: 'Desafío: Puntuación baja'
 - title: Agregar una animación
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: Más animaciones'

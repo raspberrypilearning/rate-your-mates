@@ -18,11 +18,13 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Tasten gleichzeitig drücken
 - title: Eine Bewertung anzeigen
+  completion:
+  - engaged
 - title: Beste Freunde
 - title: 'Herausforderung: Niedrige Bewertung'
 - title: Hinzufügen einer Animation
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Mehr Animationen'

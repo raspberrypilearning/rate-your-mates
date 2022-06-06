@@ -19,11 +19,13 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: परिचय
-  completion: engaged
 - title: बटन एक साथ दबाना
 - title: रेटिंग प्रदर्शित करना
+  completion:
+  - engaged
 - title: सर्वश्रेष्ठ साथी
 - title: 'चुनौती: कम रेटिंग'
 - title: एनिमेशन जोड़ना
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: अधिक एनिमेशन'
