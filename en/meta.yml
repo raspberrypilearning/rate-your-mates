@@ -22,8 +22,6 @@ steps:
   completion:
   - engaged
 - title: Displaying a rating
-  completion:
-  - engaged
 - title: Best mates
 - title: 'Challenge: Low rating'
 - title: Adding an animation
