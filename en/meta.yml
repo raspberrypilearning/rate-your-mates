@@ -19,6 +19,8 @@ last_tested: 2019-03-06
 steps:
 - title: Introduction
 - title: Pressing buttons together
+  completion:
+  - engaged
 - title: Displaying a rating
   completion:
   - engaged
@@ -28,3 +30,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: More animations'
+  completion:
+  - external
