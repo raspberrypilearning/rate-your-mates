@@ -19,12 +19,14 @@ last_tested: 2019-03-06
 steps:
 - title: Introduction
 - title: Pressing buttons together
-- title: Displaying a rating
   completion:
   - engaged
+- title: Displaying a rating
 - title: Best mates
 - title: 'Challenge: Low rating'
 - title: Adding an animation
   completion:
   - internal
 - title: 'Challenge: More animations'
+  completion:
+  - external
